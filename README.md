@@ -1,9 +1,9 @@
-#Skibidi sigma
-##This project is use for collecting data
+# Skibidi sigma
+## This project is use for collecting data
 
-###Introduction
+### Introduction
 
-###Content
+### Content
 
 
-###Summary
+### Summary
